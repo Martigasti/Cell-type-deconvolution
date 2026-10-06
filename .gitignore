@@ -1,0 +1,7 @@
+data/
+ground_truth/
+submissions/
+__pycache__/
+*.pyc
+*:Zone.Identifier
+.ipynb_checkpoints/
